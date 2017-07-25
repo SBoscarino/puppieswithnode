@@ -1,0 +1,104 @@
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+#logo {
+  padding-left: 20px;
+  padding-top: 40px;
+  background-color: #ff8523;
+}
+
+header {
+  background-color: #ff8523;
+  padding-top: 10px;
+}
+
+.main_navigation {
+  padding-left: 20px;
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+nav > a {
+  text-decoration: none;
+    color: white;
+    border: solid 1px;
+    padding: 8px;
+}
+
+p {
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+.item{
+  font-style: bold;
+  color:#1fabe5;
+}
+
+thead {
+background-color: #1fabe5;
+color: white;
+}
+
+h2 {
+  padding-left: 20px;
+  color: #1fabe5;
+}
+
+form {
+  line-height: 1.6;
+}
+
+table {
+  text-align: center;
+  line-height: 1.6;
+  border: solid;
+  border-color: #1fabe5;
+  padding: none;
+  margin: none;
+}
+
+td {
+  border: solid;
+  border-color: #1fabe5;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+li {
+  line-height: 1.6;
+  font-style: bold;
+}
+
+form {
+  background-color: #eee;
+}
+
+.name {
+  background-color: #ff8523;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.name > id {
+
+}
+
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
